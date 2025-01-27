@@ -1,4 +1,4 @@
-# Laravel Db Encrypter Package
+ # Laravel Db Encrypter Package
 
 This package was created to encrypt and decrypt values of Eloquent model attributes.
 
